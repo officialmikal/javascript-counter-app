@@ -19,4 +19,20 @@
 }
 .buttons:hover{
      background-color: hsl(215, 100%, 57%);
+} 
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size:3em;
+    
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.myLabels{
+    font-size: 2em;
+    font-weight: bold;
 }
